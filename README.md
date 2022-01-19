@@ -47,6 +47,7 @@ using the same real read dataset, you would be better to use
           --prefix depth20
           --sample-fastq sample/sample.fastq
           --sample-profile-id pf1
+          --circular 1
           sample/sample.fasta
 
   (2) reusing profile
